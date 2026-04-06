@@ -1,0 +1,8 @@
+baseURL = 'https://HelloWorld.github.io/'
+languageCode = 'ja-jp'
+title = 'マイブログ'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = "auto"
+    showCodeCopyButtons = true
